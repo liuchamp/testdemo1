@@ -12,7 +12,7 @@ public class TestDemo1App {
     public static void main(String[] args) {
 
 
-        System.out.println(JSON.toJSONString(Facotry.get()));
+        System.out.println(JSON.toJSONString(Facotry.getdto()));
     }
 
 }
